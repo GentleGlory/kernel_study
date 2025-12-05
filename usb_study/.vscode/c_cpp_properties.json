@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "mouse_as_key",
+            "includePath": [
+                "${workspaceFolder}/mouse_as_key"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-14",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "compileCommands": [
+                "${workspaceFolder}/mouse_as_key/compile_commands.json"
+            ]
+        }
+    ],
+    "version": 4
+}
